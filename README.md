@@ -58,3 +58,26 @@ This report is perfect for anyone who wants to dive into the details of the smar
 
 > Note: Links will be added as new reports are created. Please check regularly for updates.
 
+---
+
+3. **Libraries Puerto Rico Summary Report**
+
+    
+   Link: [Libraries Puerto Rico Summary](XXXXXXXXXXX)
+   
+   Description: This Power BI report provides a detailed overview of libraries in Puerto Rico, offering valuable insights to support data-driven decision-making and planning. Whether you're analyzing library resources, assessing budgets, or exploring the distribution of facilities, this report delivers comprehensive information in a user-friendly format.
+
+Key features include data on:
+
+Library Resources Overview: Access detailed data on library resources, including the number of available laptops, internet availability, and allocated budgets for each library.
+
+Geographic Distribution: Explore an interactive map visualizing the locations of both electronic and physical libraries across Puerto Rico. This map provides a clear view of library coverage in different regions.
+
+Summary Metrics: Utilize concise card visualizations to quickly view key metrics, such as total library counts, available resources, and budget allocations.
+
+Interactive Filters: Customize your exploration with dynamic filtering options, enabling you to focus on specific regions, library types, or resource categories.
+
+
+This report is ideal for library administrators, policymakers, and researchers looking to gain insights into library resources and their geographic spread in Puerto Rico. With its intuitive interface and visually appealing design, the report enables efficient analysis and data discovery.
+
+---
