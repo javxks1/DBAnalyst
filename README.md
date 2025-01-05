@@ -63,7 +63,7 @@ This report is perfect for anyone who wants to dive into the details of the smar
 3. **Libraries Puerto Rico Summary Report**
 
     
-   Link: [Libraries Puerto Rico Summary](XXXXXXXXXXX)
+   Link: [Libraries Puerto Rico Summary](https://app.powerbi.com/view?r=eyJrIjoiZGFlMzM2NmQtY2NiZi00ZjQ4LWIxNTUtYjQyMTBjMjk4ZmQ5IiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9)
    
    Description: This Power BI report provides a detailed overview of libraries in Puerto Rico, offering valuable insights to support data-driven decision-making and planning. Whether you're analyzing library resources, assessing budgets, or exploring the distribution of facilities, this report delivers comprehensive information in a user-friendly format.
 
